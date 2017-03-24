@@ -12,7 +12,7 @@
 .TAGS 
 	WMI InstallData Version
 .LICENSEURI 
-	https://github.com/bamcisnetworks/OSInstallData/LICENSE
+	https://raw.githubusercontent.com/bamcisnetworks/OSInstallData/master/LICENSE
 .PROJECTURI
 	https://github.com/bamcisnetworks/OSInstallData
 .ICONURI 
